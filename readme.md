@@ -1,11 +1,11 @@
-# **This is an internship task for The Sparks foundation.** 
+# **This is an internship task for The Sparks Foundation.** 
 https://www.thesparksfoundationsingapore.org/
 
-# Task 2 - Classifing the flower species based on the Sepal length, Sepal width, patel length and patel width.
+# Task 2 - Classifying the flower species based on the Sepal length, Sepal width, patel length, and patel width.
 
 ## Decision tree
 
-A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes.
+A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes, and leaf nodes.
 
 Using this algorithm, we are going to predict the flower species.
 
@@ -20,7 +20,7 @@ Decision trees work in a step-wise manner, meaning that they perform a step-by-s
 
 
 
-The dataset also can be downlaoded here: https://bit.ly/2G6sYx9
+The dataset also can be downloaded here: https://bit.ly/2G6sYx9
 
 ### Used Libraries:
 
@@ -28,4 +28,4 @@ Numpy: https://numpy.org/
 Pandas: https://pandas.pydata.org/
 Seaborn: https://seaborn.pydata.org/
 Matplotlibary: https://matplotlib.org/
-scikitlearn: https://scikit-learn.org/stable/
+sci-kit learn: https://scikit-learn.org/stable/
