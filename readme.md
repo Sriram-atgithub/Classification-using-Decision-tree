@@ -1,7 +1,7 @@
 # **This is an internship task for The Sparks foundation.** 
 https://www.thesparksfoundationsingapore.org/
 
-# Task 2 - Predicting the flower species based on the Sepal length, Sepal width, patel length and patel width.
+# Task 2 - Classifing the flower species based on the Sepal length, Sepal width, patel length and patel width.
 
 ## Decision tree
 
